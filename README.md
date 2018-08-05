@@ -6,7 +6,7 @@ We will work through [_Haskell Programming from First Principles_](http://haskel
 
 To prepare for your first visit, please do the following:
 
-- **Join the [FPChat](http://fpchat-invite.herokuapp.com/) Slack community.**
+- **Join the [Kuala Lumpur Haskell Learning Group](https://join.slack.com/t/kualalumpur-haskell/shared_invite/enQtNDEyMDYwNzgxNTU5LTM3NjM3ODliZGVjYmQ5ZjcyYTgxYjNiOWU3ODQwN2E3Nzc3OTlkOWRiZmEzMzZkZTJmZDIzZTlmMzQwYWJhNTU) Slack community.**
 All announcements pertaining to this study group will be sent out via Meetup and Slack. On the FPChat Slack, look for the `#haskell-study-group` channel.
 
 - **[Purchase](https://gumroad.com/l/haskellbook) your own copy of the book (discount codes are available: see below).**
